@@ -1,0 +1,7 @@
+/home/harmony/Desktop/git-repos/BestBikeApp/learn-tutorial-webapp/BestBikeApp
+/home/harmony/Desktop/git-repos/BestBikeApp/learn-tutorial-webapp/appsettings.Development.json
+/home/harmony/Desktop/git-repos/BestBikeApp/learn-tutorial-webapp/appsettings.json
+/home/harmony/Desktop/git-repos/BestBikeApp/learn-tutorial-webapp/BestBikeApp.dll
+/home/harmony/Desktop/git-repos/BestBikeApp/learn-tutorial-webapp/BestBikeApp.deps.json
+/home/harmony/Desktop/git-repos/BestBikeApp/learn-tutorial-webapp/BestBikeApp.runtimeconfig.json
+/home/harmony/Desktop/git-repos/BestBikeApp/learn-tutorial-webapp/BestBikeApp.pdb
